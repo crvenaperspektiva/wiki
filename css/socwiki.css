@@ -39,15 +39,12 @@ hr {
 }
 
 .container {
-  //display: flex;
-  //flex-direction: column;
   height: 100%;
   
   header {
     align-items: center;
     background-color: #880000;
     color: yellow;
-    //padding: 10px 10px;
     overflow: hidden;
     width: 100%;
     height: 120px;
@@ -79,13 +76,10 @@ hr {
   main {
     overflow: hidden;
     display: flex;
-    margin-top: 120px;
     width: 100%;
     
     aside {
-      //flex: 0 0 200px;
-      //width: 500px;
-      width: 25%;
+      width: 200px;
       float: left;
       
       .menu {
@@ -104,8 +98,6 @@ hr {
     }
     
     article {
-      //display: flex;
-      //flex-direction: column;
       width: 65%;
       float: right;
       
@@ -114,11 +106,6 @@ hr {
       }
       
       footer{
-        
-      }
-    }
-  }
-}
         
       }
     }
