@@ -57,14 +57,14 @@ hr {
     left 0;
 
     .logo {
-      padding: 16px;
+      padding: 0 16px;
       max-height: 100px;
       float: left;
       margin-top: 10px;
     }
     
     .headline {
-      padding: 16px;
+      //padding: 16px;
       max-height: 100px;
       margin-top: 10px;
     }
