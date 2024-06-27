@@ -56,19 +56,23 @@ hr {
       max-height: 100px;
       float: left;
       margin-top: 10px;
+      width: 40%;
+      display:inline-block;
     }
     
     .headline {
-      //padding: 16px;
+      padding: 0 16px;
       max-height: 100px;
       margin-top: 10px;
+      display:inline-block;
     }
     
     .search-box {
-      padding: 16px;
+      padding: 0 16px;
       max-height: 100px;
       float: right;
       margin-top: 10px;
+      width: 20%;
       display: none;
     }
   }
