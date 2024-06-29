@@ -1,0 +1,95 @@
+﻿html, body {
+  margin: 0;
+  height: 100%;
+  background-color: #660000;
+  color: white;
+}
+
+a:link {
+  color: orange;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid white;
+  margin: 1em 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #880000;
+    color: yellow;
+    padding: 10px 20 px;
+
+    .logo img {
+      padding: 16px;
+      max-height: 100px;
+}
+  }
+  
+  main {
+    overflow: hidden;
+    display: flex;
+    
+    aside {
+      flex: 0 0 200px;
+      
+      .menu {
+        display: flex;
+        flex-direction: column;
+      }
+      
+      .menu-item-summary {
+        padding: 10px;
+        cursor: pointer;
+      }
+      
+      .menu-item-content {
+        padding: 5px;
+      }
+    }
+    
+    article {
+      display: flex;
+      flex-direction: column;
+      
+      .content {
+        overflow: auto;
+      }
+      
+      footer{
+        
+      }
+    }
+  }
+}
