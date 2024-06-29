@@ -48,17 +48,20 @@ hr {
     .logo img {
       padding: 16px;
       max-height: 100px;
+      flex: 1;
     }
     
     .headline img {
       padding: 16px;
       max-height: 100px;
+      flex: 1;
     }
     
     .search-box {
       padding: 0 16px;
       max-height: 100px;
       margin-top: 10px;
+      flex: 1;
       //display: none;
     }
   }
