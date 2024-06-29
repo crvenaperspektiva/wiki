@@ -1,31 +1,27 @@
 html, body {
-  margin: 0;
-  height: 100%;
+  //margin: 0;
+  //height: 100%;
   background-color: #660000;
   color: #E9CA4C;
 }
 
 a:link {
   color: orange;
-  background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
   color: red;
-  background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
   color: red;
-  background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
   color: yellow;
-  background-color: transparent;
   text-decoration: underline;
 }
 
@@ -42,15 +38,19 @@ hr {
   height: 100%;
   
   header {
+    margin-inline: auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: #880000;
-    color: yellow;
-    padding: 10px 20 px;
-    width: 100%;
+    color: #E9CA4C;
 
     .logo img {
+      padding: 16px;
+      max-height: 100px;
+    }
+    
+    .headline img {
       padding: 16px;
       max-height: 100px;
     }
@@ -64,11 +64,13 @@ hr {
   }
   
   main {
+    --gap: 1rem;
+    display: flex;
+    gap: var(--gap);
     overflow: hidden;
     
     aside {
-      float: left;
-      width: 15%;
+      flex: 1;
       
       .menu {
         
@@ -85,8 +87,7 @@ hr {
     }
     
     article {
-      float: right;
-      width: 85%;
+      flex: 6;
       
       .content {
         overflow: auto;
