@@ -39,43 +39,36 @@ hr {
 }
 
 .container {
+  height: 100%;
   
   header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: #880000;
     color: yellow;
-    overflow: hidden;
-    height: 120px;
+    padding: 10px 20 px;
+    width: 100%;
 
-    .logo {
-      padding: 0 16px;
+    .logo img {
+      padding: 16px;
       max-height: 100px;
-      margin-top: 10px;
-      float: left;
-    }
-    
-    .headline {
-      padding: 0 16px;
-      max-height: 100px;
-      margin-top: 10px;
     }
     
     .search-box {
       padding: 0 16px;
       max-height: 100px;
       margin-top: 10px;
-      float: right;
-      display: none;
+      //display: none;
     }
   }
   
   main {
     overflow: hidden;
-    display: flex;
-    width: 100%;
     
     aside {
-      width: 200px;
       float: left;
+      width: 15%;
       
       .menu {
         
@@ -92,11 +85,11 @@ hr {
     }
     
     article {
-      width: 75%;
       float: right;
+      width: 85%;
       
       .content {
-        
+        overflow: auto;
       }
       
       footer{
