@@ -9,14 +9,5 @@
             </ul>
           </div>
         </details>
-        <details class="menu-item" open="">
-          <summary class="menu-item-summary">Drugi Menu</summary>
-          <div class="menu-item-content">
-            <ul>
-              <li><a href="index.html">A</a></li>
-              <li><a href="faq.html">B</a></li>
-            </ul>
-          </div>
-        </details>
       </div>
     </aside>
