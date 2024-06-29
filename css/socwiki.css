@@ -1,6 +1,5 @@
-html, body {
+body {
   margin: 0;
-  //height: 100%;
   background-color: #660000;
   color: #E9CA4C;
 }
@@ -34,77 +33,31 @@ hr {
   padding: 0;
 }
 
-.container {
-  height: 100%;
-  
-  .top {
-    margin-inline: auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #880000;
-    color: #E9CA4C;
+.wrapper {
+  margin-inline: auto;
+  max-width: 1500px;
+}
 
-    .logo img {
-      padding: 16px;
-      max-height: 100px;
-      flex: 1;
-      height: auto;
-      width: auto;
-    }
-    
-    .headline img {
-      padding: 16px;
-      max-height: 100px;
-      flex: 1;
-      height: auto;
-      width: auto;
-    }
-    
-    .search-box {
-      padding: 0 16px;
-      max-height: 100px;
-      margin-top: 10px;
-      flex: 1;
-      height: auto;
-      width: auto;
-      //display: none;
-    }
+.wrapper--narrow {
+  max-width: 500px;img {
+    max-width: 100%;
+    height: auto;
   }
-  
-  main {
-    --gap: 1rem;
-    display: flex;
-    gap: var(--gap);
-    overflow: hidden;
-    
-    aside {
-      flex: 1;
-      
-      .menu {
-        
-      }
-      
-      .menu-item-summary {
-        padding: 10px;
-        cursor: pointer;
-      }
-      
-      .menu-item-content {
-        padding: 5px;
-      }
-    }
-    
-    article {
-      flex: 6;
-      
-      .content {
-        overflow: auto;
-      }
-      
-      footer{
-        
-      }
-    }
-  }
+}
+
+header {
+  margin-block: 2rem;
+}
+
+.layout-grid {
+  display: flex;
+  gap: 10px;
+}
+
+.sidebar {
+  flex: 1;
+}
+
+.content {
+  flex: 5;
 }
