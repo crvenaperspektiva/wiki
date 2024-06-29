@@ -37,7 +37,7 @@ hr {
 .container {
   height: 100%;
   
-  header {
+  .top {
     margin-inline: auto;
     display: flex;
     justify-content: space-between;
