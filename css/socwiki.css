@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: 10px;
   background-color: #660000;
   color: #E9CA4C;
 }
@@ -47,6 +47,8 @@ hr {
 
 header {
   margin-block: 2rem;
+  background-color: #880000;
+  padding: 16px;
 }
 
 .layout-grid {
