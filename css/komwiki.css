@@ -1,4 +1,7 @@
-@font-face { font-family: Kingthings; src: url('css/Kingthings_Trypewriter.ttf'); } 
+@font-face {
+  font-family: Kingthings;
+  src: url('../fonts/Kingthings_Trypewriter.ttf');
+} 
 
 body {
   margin: 10px;
