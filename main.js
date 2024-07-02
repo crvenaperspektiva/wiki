@@ -14,7 +14,7 @@ customElements.define('header-inc', HeaderInc)
 
 class Sidebar extends HTMLElement {
 	connectedCallback() {
-		this.innerHTML 0 `
+		this.innerHTML = `
 			<div class="sidebar">
         			<div class ="menu">
         				<details class="menu-item" open="">
