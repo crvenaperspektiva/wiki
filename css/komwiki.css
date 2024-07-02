@@ -57,10 +57,12 @@ header {
 
 .sidebar {
   flex: 1;
+  padding: 8px;
 }
 
 .content {
   flex: 5;
+  padding: 8px;
 }
 
 img { 
