@@ -12,7 +12,7 @@ class HeaderInc extends HTMLElement {
 
 customElements.define('header-inc', HeaderInc)
 
-class Sidebar extends HTMLElement {
+class SidebarInc extends HTMLElement {
 	connectedCallback() {
 		this.innerHTML = `
 			<div class="sidebar">
@@ -32,4 +32,4 @@ class Sidebar extends HTMLElement {
 	}
 }
 
-customElements.define('sidebar', Sidebar)
+customElements.define('sidebar-inc', SidebarInc)
