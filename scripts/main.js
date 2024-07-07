@@ -29,7 +29,7 @@ class SidebarInc extends HTMLElement {
       				</div>
 	  			<div class ="menu">
         				<details class="menu-item" open="">
-          					<summary class="menu-item-summary">Problema</summary>
+          					<summary class="menu-item-summary">Društveni problemi</summary>
           						<div class="menu-item-content">
             							<ul>
               								<li><a href="ilustracije.html">Ilustracije problema</a></li>
