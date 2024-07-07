@@ -66,6 +66,10 @@ header {
   padding: 8px;
 }
 
+.menu-item-summary {
+  cursor: pointer;
+}
+
 img { 
     max-width: 100%; 
     height: auto; 
