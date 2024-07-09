@@ -17,18 +17,19 @@ class SidebarInc extends HTMLElement {
 		this.innerHTML = `
 			<div class="sidebar">
         			<div class ="menu">
-        				<details class="menu-item" open="">
+        				<details class="menu-item">
           					<summary class="menu-item-summary">Izbornik</summary>
           						<div class="menu-item-content">
             							<ul>
               								<li><a href="index.html">Početna stranica</a></li>
               								<li><a href="faq.html">FAQ za ne-ljevičare</a></li>
+              								<li><a href="ekonomija.html">Ekonomija</a></li>
             							</ul>
           						</div>
         				</details>
       				</div>
 	  			<div class ="menu">
-        				<details class="menu-item" open="">
+        				<details class="menu-item">
           					<summary class="menu-item-summary">Društveni problemi</summary>
           						<div class="menu-item-content">
             							<ul>
