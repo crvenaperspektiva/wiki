@@ -25,6 +25,7 @@ class SidebarInc extends HTMLElement {
               								<li><a href="faq.html">FAQ za ne-ljevičare</a></li>
               								<li><a href="miskoncepcije.html">Miskoncepcije</a></li>
               								<li><a href="ekonomija.html">Ekonomija</a></li>
+              								<li><a href="politika.html">Politika</a></li>
             							</ul>
           						</div>
         				</details>
