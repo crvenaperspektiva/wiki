@@ -25,32 +25,30 @@
           			<div class="menu-item-content">
             				<ul>
               					<li><a href="#uvod">Uvod</a></li>
-              					<li><a href="#eksploatacija">Eksploatacija</a></li>
+              					<li><a href="#kritika">Kritika postojećih modela</a></li>
             				</ul>
           			</div>
         	</details>
       </div>
 	<hr>
 	<details class="menu-item" open="">
-	<summary class="section-summary" id="uvod"><strong>Uvod i neplaćeni rad</strong></summary>
-	<p>Ovdje ćemo prezentirati ljevičarsku analizu i kritiku ekonomije. Prije svega počinimo sa činjenicom da u društvu postoji ekonomska sfera, tj. dio društva koji se bavi ekonomijom.
-            U tom dijelu društva postoje individualci koje nazivamo radnici, oni koji proizvode vrijednost. U kapitalističkom sustavu, ti radnici primaju manje vrijednosti nego koliko su stvorili.
-            Primjerice, ako radnici u nekoj državi proizvedu 1 milijardu eura vrijednosti, oni možda dobivaju 400 milijuna eura u vrijednosti (kroz svoje plaće). Dakle, postoji "višak" od 600 milijuna eura.
-            Taj višak vrijednosti je količina vrijednosti koju radnici proizvedu, ali koju ne dobivaju, odnosno za dio svoga rada nisu plaćeni. Taj rad, stoga, zovemo neplaćeni rad.</p>
+	<summary class="section-summary" id="uvod"><strong>Uvod: desničarski politički modeli</strong></summary>
+	<p>Politiku, kao i svako drugo područje, ćemo najbolje razumjeti modelirajući ju što preciznije pomoću matematičkih i ostalih sistematičnih alata koje imamo na raspolaganju.
+		Takvi modeli već, ne samo da postoje, nego je vjerojatno svatko čuo za barem neki od njih. No, svi oni su loši. Popularno razumijevanje ideologije i političkog spektra je veoma neprecizno.
+		Bez obzira je li to lijevo-desno spektar, politički kompas s dvije (ili više) osi, teorija potkove ili neki od još kompliciranijih modela, svi su loši.</p>
 
-        <p>Vrijednost dobivena tim neplaćenim radom mora otići nekamo. U kapitalizmu, postoji druga skupina ljudi koja dobiva tih 600 milijuna eura.
-            Ta skupina ljudi ne mora raditi kako bi primila tu vrijednost, jer su radnici tu vrijednost već proizveli. Na taj način smo dobili dvije klase ljudi, one koji proizvode višak vrijednosti kroz svoj neplaćeni rad i one koji taj višak vrijednosti dobivaju bez da plaćaju išta zauzvrat.
-            Tim činom je jedna klasa iskorištavana ili eksploatirana od strane druge klase. Drugim (i malo provokativnijim) riječima, u kapitalizmu se neprestano odvija proces krađe, gdje jedna klasa uzima vrijednost koju je druga klasa proizvela bez davanja ičega zauzvrat.
-            To je glavna kritika kapitalističkog sustava i kapitalističke ekonomije.</p>
+	<p>Ovdje nam je cilj istaknuti probleme s popularnim političkim modelima, tj. shvatiti zašto ti modeli ne mogu precizno opisati i kategorizirati politička uvjerenja koja ljudi imaju.
+		Nakon toga ćemo opisati korisniju metodu, koja nam uistinu pomaže u shvaćanju političkih ideologija.</p>
 	</details>
 	<details class="menu-item" open="">
-	<summary class="section-summary" id="eksploatacija"><strong>Eksploatacija i pojam komunizma</strong></summary>
-	<p>Sada kada vidimo kako u kapitalističkom društvu jedna klasa neprestano krade od druge, postavlja se očito pitanje. Kako to da se to neprestano nastavlja?
-	    Zvuči nevjerojatno da je jedna cijela skupina ljudi potkradana, ali se ne žale. Postoji nekoliko razloga zašto je to tako, od kojih je jedan taj da ljudi jednostavno nisu svjesni.
-	    Radnicima nedostaje tzv. klasna svijest, tj. spoznaja pripadnosti potkradanoj klasi. Obzirom da nisu svjesni, ne pokreću se kako bi zaustavili eksploataciju.
-	    To je problem koji ljevica želi popraviti. Ljevica želi učiniti radnike svjesnima da se klasna eksploatacija neprestano odvija u nadi da će radnici poduzeti nešto u vezi toga.
-	    Ukoliko se poduzme nešto povodom tog problema ekploatacije, tj. ukoliko se taj problem eliminira i nastane društvo u kojem ne postoji klasna eksploatacija, to društvo se naziva <a href="komunizam.html">komunizmom</a>.
-	    U takvom društvu, u komunizmu, ranije spomenut višak vrijednosti ne bi primila neka druga klasa, nego ista ona koja ga je proizvela.</p>
+	<summary class="section-summary" id="kritika"><strong>Kritika postojećih modela</strong></summary>
+	<p>Bitno je naglasiti da mnogi ljudi vide problem sa postojećim modelima. Politički teoretičari i akademici se slažu da su popularni modeli loši i ne mogu obuhvatiti sve detalje političkih ideologija.
+		Zbog toga često konstruiraju nove, kompliciranije, modele. Dodaju nove osi na već postojeći politički kompas (ponekad ravne, a ponekad i savijene, kao teorija potkove, ali sam na jednoj osi) ili na sličan način konstruiraju sofisticirane modele.
+		No vrlo često, kada takve konstrukcije dobro opišu jednu poziciju, izgube shvaćanje druge.</p>
+
+	<p>Postavlja se pitanje, gdje leži srž tog neuspjeha? To nije zato što njihov model nije dovoljno kompleksan, pa samim time dodavanje još jedne osi ili dimenzije neće popraviti stvar.
+		Greška je u samom pristupu. Pristup koji koriste počinje od apstraktnog, gdje u izolaciji konstruiraju model koji se potom primjenjuje na materijalan svijet.
+		Obzirom da su ti modeli formirani u "čistom" apstraktnom svijetu, nije iznenađujuće da ne mogu opisati "neurednu" stvarnost našeg društva.</p>
 	</details>
 	</div>
       <footer>
