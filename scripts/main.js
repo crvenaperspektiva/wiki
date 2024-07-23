@@ -3,7 +3,7 @@ class HeaderInc extends HTMLElement {
 		this.innerHTML = `
 			<header>
   				<div class="wrapper wrapper--narrow">
-    					<center><img src="images/headline.png" alt="CrvenaPerspektiva"></center>
+    					<center><a href="index.html"><img src="images/headline.png" alt="CrvenaPerspektiva"></a></center>
   				</div>
 			</header>
 		`
