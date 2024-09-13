@@ -23,23 +23,24 @@ class SidebarInc extends HTMLElement {
             							<ul>
               								<li><a href="index.html">Početna stranica</a></li>
               								<li><a href="faq.html">FAQ za ne-ljevičare</a></li>
-              								<li><a href="miskoncepcije.html">Miskoncepcije</a></li>
               								<li><a href="ekonomija.html">Ekonomija</a></li>
               								<li><a href="politika.html">Politika</a></li>
+              								<li><a href="miskoncepcije.html">Miskoncepcije</a></li>
+		      							<li><a href="ilustracije.html">Ilustracije problema</a></li>
             							</ul>
           						</div>
         				</details>
       				</div>
-	  			<div class ="menu">
+	  			<!--<div class ="menu">
         				<details class="menu-item">
           					<summary class="menu-item-summary">Društveni problemi</summary>
           						<div class="menu-item-content">
             							<ul>
-              								<li><a href="ilustracije.html">Ilustracije problema</a></li>
+              								
             							</ul>
           						</div>
         				</details>
-      				</div>
+      				</div>-->
      			 </div>
 	 	`
 	}
